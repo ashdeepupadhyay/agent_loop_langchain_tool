@@ -3,3 +3,12 @@
 # how to run 
 source .venv_1/bin/activate
 uv run --active python main.py
+
+        query 
+          |
+          |
+        Thought-------------- Answer
+        /     \
+    Action   Observation
+        \      /
+          Tool
