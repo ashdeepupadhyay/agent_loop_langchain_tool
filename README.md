@@ -12,3 +12,9 @@ uv run --active python main.py
     Action   Observation
         \      /
           Tool
+
+# without lang chain tool 
+
+uv run --active python 2_agent_loop_raw_function_calling.py
+
+https://docs.ollama.com/capabilities/tool-calling#calling-a-single-tool
